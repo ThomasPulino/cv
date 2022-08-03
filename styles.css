@@ -1,0 +1,44 @@
+body{
+  text-align: center;
+}
+
+h1{
+  color: white;
+  font-size: 40px;
+  font-family: 'Outfit', sans-serif;
+  margin-bottom: 10px;
+}
+
+h2{
+  color: white;
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 40px;
+  margin-top: 10px;
+}
+
+.profile{
+border-radius: 50%
+
+}
+.container-top{
+  background-color: #3AB4F2;
+  padding-top: 40px;
+  position: absolute;
+  height: 500px;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.headpic{
+max-width: 100%;
+position: absolute;
+bottom: 0;
+left: 0;
+
+}
+
+.profile{
+  width: 20%;
+  margin: 550px auto 0 auto;
+}
