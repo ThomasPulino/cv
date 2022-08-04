@@ -1,4 +1,5 @@
 body{
+  margin: 0;
   text-align: center;
 }
 
@@ -17,28 +18,24 @@ h2{
 }
 
 .profile{
-border-radius: 50%
+border-radius: 50%;
+width: 20%;
+position: relative;
+top: 700px;
+ }
 
-}
+
 .container-top{
   background-color: #3AB4F2;
-  padding-top: 40px;
-  position: absolute;
   height: 500px;
-  top: 0;
-  left: 0;
-  right: 0;
+  padding: 40px;
+  position: relative;
 }
 
-.headpic{
-max-width: 100%;
+.center{
+max-height: 70%;
+margin: 0;
 position: absolute;
 bottom: 0;
-left: 0;
-
-}
-
-.profile{
-  width: 20%;
-  margin: 550px auto 0 auto;
+right: 200px;
 }
