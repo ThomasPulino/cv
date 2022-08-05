@@ -21,7 +21,7 @@ h2{
 h3{
   color: #3A5BA0;
   font-family: 'Outfit', sans-serif;
-      font-size: 30px;
+      font-size: 40px;
 }
 
 
@@ -37,7 +37,9 @@ hr{
 
   p{
     font-family: 'Cabin', sans-serif;
-    font-size: 25px;
+    font-size: 35px;
+    width: 80%;
+    margin: auto 0;
   }
 
   .intro{
@@ -76,7 +78,7 @@ right: 200px;
 
 
 .skill-row1{
-  width: 50%;
+  width: 80%;
   margin: 100px auto 130px auto;
   text-align: left;
   line-height: 2;
@@ -92,7 +94,7 @@ right: 200px;
 
 
 .skill-row2{
-  width: 50%;
+  width: 80%;
   margin: 100px auto 180px auto;
   text-align: left;
   line-height: 2;
@@ -105,8 +107,13 @@ right: 200px;
   float: right;
 }
 
+
 .contact-me{
   padding: 10px 30px 50px;
+}
+
+.touch{
+  margin: auto;
 }
 
 
